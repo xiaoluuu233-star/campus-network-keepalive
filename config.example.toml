@@ -1,0 +1,15 @@
+userid = "your-account"
+password = "your-password"
+portal_base_url = "http://172.32.253.17"
+connectivity_url = "http://www.msftconnecttest.com/connecttest.txt"
+check_interval = 30
+heartbeat_interval = 60
+timeout = 8
+max_retries = 5
+log_path = "campus_keepalive.log"
+wlanacname = "VBRAS-ZHKJ4"
+wlanacIp = "172.32.253.8"
+mac = ""
+vlan = "0"
+groupId = "2"
+bindOperatorType = "2"
