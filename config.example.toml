@@ -1,4 +1,5 @@
-userid = "your-account@139.gd"
+userid = "your-account@139.gd" 
+#@139.gd为广东移动后缀 不同运营商和地区略有不同
 password = "your-password"
 portal_base_url = "http://172.32.253.17"
 connectivity_url = "http://www.msftconnecttest.com/connecttest.txt"
