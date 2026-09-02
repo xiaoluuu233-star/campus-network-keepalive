@@ -1,4 +1,4 @@
-userid = "your-account"
+userid = "your-account@139.gd"
 password = "your-password"
 portal_base_url = "http://172.32.253.17"
 connectivity_url = "http://www.msftconnecttest.com/connecttest.txt"
