@@ -1,7 +1,0 @@
-config.toml
-*.log
-__pycache__/
-.pytest_cache/
-build/
-dist/
-*.spec
