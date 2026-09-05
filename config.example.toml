@@ -1,10 +1,9 @@
-userid = "your-account"
- #校园网账号与id可能略有不同，详细请抓包查看
-password = "your-password"  #密码
+userid = "your-account@139.gd"
+password = "your-password"
 portal_base_url = "http://172.32.253.17"
 connectivity_url = "http://www.msftconnecttest.com/connecttest.txt"
 check_interval = 30
-heartbeat_interval = 60  #心跳请求间隔时间
+heartbeat_interval = 60
 timeout = 8
 max_retries = 5
 log_path = "campus_keepalive.log"
